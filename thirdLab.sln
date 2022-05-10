@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "завдання1", "завдання1\завдання1.csproj", "{ECDEA867-765C-4C23-8880-E73BF6DFC6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "завдання2", "завдання2\завдання2.csproj", "{31377A96-B7BE-4C8D-AC11-9E354973989C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "завдання3", "завдання3\завдання3.csproj", "{500941B1-8075-4BB0-AFCD-9B7A5351A4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDEA867-765C-4C23-8880-E73BF6DFC6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDEA867-765C-4C23-8880-E73BF6DFC6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDEA867-765C-4C23-8880-E73BF6DFC6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDEA867-765C-4C23-8880-E73BF6DFC6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31377A96-B7BE-4C8D-AC11-9E354973989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31377A96-B7BE-4C8D-AC11-9E354973989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31377A96-B7BE-4C8D-AC11-9E354973989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31377A96-B7BE-4C8D-AC11-9E354973989C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500941B1-8075-4BB0-AFCD-9B7A5351A4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500941B1-8075-4BB0-AFCD-9B7A5351A4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500941B1-8075-4BB0-AFCD-9B7A5351A4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500941B1-8075-4BB0-AFCD-9B7A5351A4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E90CBE-BDFD-4087-B0D5-2FDB51C3F9CE}
+	EndGlobalSection
+EndGlobal

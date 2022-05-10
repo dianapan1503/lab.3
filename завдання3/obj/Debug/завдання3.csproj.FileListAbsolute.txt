@@ -1,0 +1,8 @@
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\bin\Debug\завдання3.exe.config
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\bin\Debug\завдання3.exe
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\bin\Debug\завдання3.pdb
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\obj\Debug\завдання3.csproj.AssemblyReference.cache
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\obj\Debug\завдання3.csproj.SuggestedBindingRedirects.cache
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\obj\Debug\завдання3.csproj.CoreCompileInputs.cache
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\obj\Debug\завдання3.exe
+C:\Users\spasanatol\Desktop\labsProg\thirdLab\thirdLab\завдання3\obj\Debug\завдання3.pdb

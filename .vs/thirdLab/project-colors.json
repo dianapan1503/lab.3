@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecdea867-765c-4c23-8880-e73bf6dfc6f8": {
+      "ProjectGuid": "ecdea867-765c-4c23-8880-e73bf6dfc6f8",
+      "DisplayName": "завдання1",
+      "ColorIndex": 0
+    },
+    "32723570-0d72-4b72-ac44-6ed13329d1da": {
+      "ProjectGuid": "32723570-0d72-4b72-ac44-6ed13329d1da",
+      "DisplayName": "завдання 2",
+      "ColorIndex": 1
+    },
+    "31377a96-b7be-4c8d-ac11-9e354973989c": {
+      "ProjectGuid": "31377a96-b7be-4c8d-ac11-9e354973989c",
+      "DisplayName": "завдання2",
+      "ColorIndex": 2
+    },
+    "500941b1-8075-4bb0-afcd-9b7a5351a4b8": {
+      "ProjectGuid": "500941b1-8075-4bb0-afcd-9b7a5351a4b8",
+      "DisplayName": "завдання3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
